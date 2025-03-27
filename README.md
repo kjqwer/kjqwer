@@ -1,7 +1,7 @@
 # 👋 你好，我是 @kjqwer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;热爱编程和技术探索;正在学习深度学习&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;GitHub 养生玩家;深度学习？在学了在学了（进度 0.1%）&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## 🚀 关于我
@@ -20,12 +20,6 @@
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
 ## 💼 AI代写项目展（人类仅负责Ctrl+V）
@@ -66,6 +60,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kjqwer&theme=nord&column=7" alt="trophy" />
 </div>
 
-<!--
-kjqwer/kjqwer 是一个 ✨ 特殊 ✨ 仓库，因为它的 `README.md` 会显示在你的 GitHub 个人主页上。
--->
