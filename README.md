@@ -29,16 +29,12 @@
 - 🧠 **深度学习**: 调参侠（模型能跑就行，准确率随缘）
 - 🖥️ **桌面应用**: 本来以为Qt/C++就是答案了，直到我发现了python 
 - 🍃 **Java 后端**: SpringBoot 微服务开发（入门阶段）
-⚡ **总结**： AI全栈开发，我负责嘤嘤嘤~~~，小萌新什么时候才能变成大佬[仰望][仰望]
+- ⚡ **总结**： AI全栈开发，我负责嘤嘤嘤~~~，小萌新什么时候才能变成大佬[仰望][仰望]
 
 ## 📊 GitHub 统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kjqwer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjqwer&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -52,11 +48,11 @@
   <a href="https://sywb.top"><img src="https://img.shields.io/badge/-个人网站-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kjqwer&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kjqwer&theme=nord&column=7" alt="trophy" />
-</div>
+</div> -->
 
