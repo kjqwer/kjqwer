@@ -2,15 +2,7 @@
 
 <div align="center">
   <!-- 动态打字机效果 -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;GitHub+养生玩家;深度学习？在学了在学了（进度+0.1%）&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  
-  <!-- 动态表情动画 -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-    <span style="font-size: 24px;">🐱</span>
-    <span style="font-size: 24px;">💻</span>
-    <span style="font-size: 24px;">☕</span>
-    <span style="font-size: 24px;">🎮</span>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎欢迎，热烈欢迎，好久没人来了！;年纪轻轻，就要开始养生啦~;深度学习？在学了在学了（进度+0.1%）&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## 🚀 关于我
@@ -56,9 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjqwer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="495" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kjqwer&theme=nord&column=7" alt="trophy" />
-</div>
 
 ## 📫 联系我
 
