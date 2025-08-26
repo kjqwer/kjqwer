@@ -33,13 +33,10 @@
 - ⚡ **总结**： AI全栈开发，我负责嘤嘤嘤~~~，小萌新什么时候才能变成大佬[仰望][仰望]
 
 
-## 📊 GitHub 统计
+## 📊 统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kjqwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="495" />
-  
-  <!-- 添加动态贡献图 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjqwer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="495" />
 </div>
 
 ## 🎯 最近在做什么
@@ -56,7 +53,7 @@
   <a href="https://sywb.top"><img src="https://img.shields.io/badge/-个人网站-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
-<!-- 添加有趣的页脚 -->
+<!-- 页脚 -->
 <div align="center" style="margin-top: 30px;">
   <div style="font-size: 14px; color: #666;">
     🎉 感谢访问！让我们一起在代码的世界里摸鱼吧！ 🎉
@@ -66,7 +63,7 @@
   </div>
 </div>
 
-<!-- 添加访问统计 -->
+<!-- 访问统计 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kjqwer&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
