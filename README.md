@@ -33,13 +33,13 @@
 ## 📊 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjqwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="495" />
+  <img src="https://readme-status-eight-taupe.vercel.app/api?username=kjqwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="495" />
 </div>
 
 ## 🎯 最近在做什么
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjqwer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="495" />
+  <img src="https://readme-status-eight-taupe.vercel.app/api/top-langs/?username=kjqwer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="495" />
 </div>
 
 
