@@ -36,6 +36,14 @@
   <img src="https://readme-status-eight-taupe.vercel.app/api?username=kjqwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="495" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kjqwer/kjqwer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kjqwer/kjqwer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kjqwer/kjqwer/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 🎯 最近在做什么
 
 <div align="center">
